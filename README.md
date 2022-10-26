@@ -40,7 +40,7 @@ Styled Components
 
 Back:
 
-Typescript
+Typescript -ok
 NodeJS -ok
 Express
 Axios
