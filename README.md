@@ -29,6 +29,7 @@ What I can work with:
 - Tests: Jest, Supertest.
 
 And if you want to know more, I invite you to talk to me on linkedin:
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-nepomuceno/)
 
 #### Languages and Tools
