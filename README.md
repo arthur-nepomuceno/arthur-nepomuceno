@@ -9,10 +9,10 @@ Honesty is a key value for me, therefore allow me to start with it: I really thi
 So I'll keep it simple for us. Here is what you need to know:
 
 I'm a full stack web developer.
-I can build a responsive application for desktop and mobile.
-I can build the front-end and the back-end.
+I can code responsive applications for desktop and mobile.
+I can code the front-end and the back-end.
 I can model and create the database.
-I can build the tests.
+I can code the tests.
 
 And I can do all of it using the technologies shown below.
 
