@@ -20,10 +20,10 @@ Career goals:
 
 Languages and Tools:
 
-- Front-end: JavaScript, ReactJS, NodeJS, Axios, Styled Components.
-- Back-end: Typescript, NodeJS, Express, JsonWebToken, Bcrypt.
-- Databases: MongoDB, PostgreSQL, Prisma.
-- Tests: Jest, Supertest.
+- front-end: javaScript, reactJS, nodeJS, axios, styled-components.
+- back-end: typeScript, nodeJS, express, jsonWebToken, bcrypt.
+- databases: mongoDB, postgreSQL, prisma.
+- tests: jest, supertest.
 
 And if you want to know more, I invite you to talk to me on linkedin:
 
