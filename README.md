@@ -3,6 +3,31 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-nepomuceno/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arth.nepo@gmail.com)
 
+Honesty is a main value for me, therefore let me start with it: I don't really think you're into reading big texts right now.
+So I keep it simple for us. Here is what you need to know:
+
+I'm a full stack web developer.
+I can build a responsive application for desktop and mobile.
+I can build the front-end and the back-end.
+I can model and create the database.
+I can build the tests.
+
+And I can do all of it using the technologies shown below.
+
+Career goals:
+- for now, to start as a junior;
+- for the future, to work as DevOps.
+
+What I can work with:
+
+Front-end: JavaScript, ReactJS, NodeJS, Axios, Styled Components.
+
+Back-end: Typescript, NodeJS, Express, JsonWebToken, Bcrypt.
+
+Databases: MongoDB, PostgreSQL, Prisma.
+
+Tests: Jest, Supertest.
+
 #### Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
