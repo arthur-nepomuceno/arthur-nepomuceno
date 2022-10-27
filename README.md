@@ -3,8 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-nepomuceno/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arth.nepo@gmail.com)
 
-Honesty is a main value for me, therefore let me start with it: I don't really think you're into reading big texts right now.
-So I keep it simple for us. Here is what you need to know:
+Honesty is a key value for me, therefore allow me to start with it: I really think you're not into reading big texts right now.
+So I'll keep it simple for us. Here is what you need to know:
 
 I'm a full stack web developer.
 I can build a responsive application for desktop and mobile.
@@ -27,6 +27,9 @@ What I can work with:
 - Databases: MongoDB, PostgreSQL, Prisma.
 
 - Tests: Jest, Supertest.
+
+And if you want to know more, I invite you to talk to me on linkedin:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-nepomuceno/)
 
 #### Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
