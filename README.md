@@ -3,6 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-nepomuceno/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arth.nepo@gmail.com)
 
+*- it takes 30s to read -*
+
 Honesty is a key value for me, therefore allow me to start with it: I really think you're not into reading big texts right now.
 So I'll keep it simple for us. Here is what you need to know:
 
