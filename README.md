@@ -20,13 +20,13 @@ Career goals:
 
 What I can work with:
 
-Front-end: JavaScript, ReactJS, NodeJS, Axios, Styled Components.
+- Front-end: JavaScript, ReactJS, NodeJS, Axios, Styled Components.
 
-Back-end: Typescript, NodeJS, Express, JsonWebToken, Bcrypt.
+- Back-end: Typescript, NodeJS, Express, JsonWebToken, Bcrypt.
 
-Databases: MongoDB, PostgreSQL, Prisma.
+- Databases: MongoDB, PostgreSQL, Prisma.
 
-Tests: Jest, Supertest.
+- Tests: Jest, Supertest.
 
 #### Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -43,6 +43,10 @@ Tests: Jest, Supertest.
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
 <!--
+VSCode
+HTML5
+CSS3
+
 Front:
 
 JavaScript -ok
