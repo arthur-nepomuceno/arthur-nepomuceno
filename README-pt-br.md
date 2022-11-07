@@ -3,9 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-nepomuceno/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arth.nepo@gmail.com)
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/arthur-nepomuceno/arthur-nepomuceno/blob/main/README.md)
+
 *- leva 30s para ler -*
 
-Honestidade é um valor para mim, então escolho começar por ela: 
+Honestidade é um valor importante para mim, então escolho começar por ela: 
 eu *não* acredito que você esteja afim de ler um textão agora.
 Então vou deixar as coisas simples para nós dois.
 Aqui está o que você precisa saber:
