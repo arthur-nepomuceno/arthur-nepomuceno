@@ -15,19 +15,48 @@ Excellent communication skills, with the ability to give and receive constructiv
 ###### Certificates (most recents first):
 - [AZ-900: Microsoft Azure Fundamentals Exam Prep - APR 2024](https://www.udemy.com/course/az900-azure)
 - [AZ-900 Certification: Microsoft Azure Fundamentals (2024)](https://www.udemy.com/course/az-900-preparacao-para-o-exame-microsoft-azure-fundamentals/)
-- [C# First Steps: Programming Logic and Algorithm](https://www.udemy.com/course/logica-de-programacao-csharp/?couponCode=24T3FS41524)
 
+###### SKILLS
 
-###### Current career goal: 
-- To become a Microsoft Azure specialist.
+###### Programming Languages
 
-###### Next step to get there:
-- To get my AZ-900: Microsoft Azure Fundamentals certificate.
+- Python
+- JavaScript & TypeScript
 
-Main programming languages and tools:
-  - .NET
-  - Node
-  - Angular
+###### Back-end
+
+- Django & FastAPI
+- Node.js & Express.js
+
+###### Front-end
+
+- Angular
+- React.js
+- Styled Components
+- HTML5
+- CSS3
+- Bootstrap
+
+###### DataBases
+
+- MongoDB
+- PostgreSQL
+- Prisma ORM
+
+###### Infrastructure
+
+- Azure DevOps
+- Kubernetes
+- Amazon Web Services
+
+###### Tools
+
+- Zoho CRM
+- Swagger
+- Postman
+- Github
+- Jenkins
+- DataDog
 
 And if you want to know more, I invite you to talk to me on linkedin:
 
