@@ -1,7 +1,7 @@
 ## Arthur Nepomuceno 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-nepomuceno/)
 
-<!--**Leia em português** >>> [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/arthur-nepomuceno/arthur-nepomuceno/blob/main/README-pt-br.md) -->
+**Leia em português** >>> [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/arthur-nepomuceno/arthur-nepomuceno/blob/main/README-pt-br.md)
 
 ###### INTRO:
 
