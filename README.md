@@ -5,7 +5,12 @@
 
 ###### INTRO:
 
-  Full Stack Junior Web Developer currently working with .NET and Angular on the security team of an investment bank.
+Hands-on experience in the financial sector, having worked in the security and fraud prevention team of an international investment bank.
+
+Focused on back-end development, with strong skills in Python, TypeScript, Django, and Node.js. Experienced in API development
+and software integration. 
+
+Excellent communication skills, with the ability to give and receive constructive feedback while fostering a healthy and collaborative work environment.
 
 ###### Certificates (most recents first):
 - [AZ-900: Microsoft Azure Fundamentals Exam Prep - APR 2024](https://www.udemy.com/course/az900-azure)
