@@ -12,10 +12,6 @@ and software integration.
 
 Excellent communication skills, with the ability to give and receive constructive feedback while fostering a healthy and collaborative work environment.
 
-###### Certificates (most recents first):
-- [AZ-900: Microsoft Azure Fundamentals Exam Prep - APR 2024](https://www.udemy.com/course/az900-azure)
-- [AZ-900 Certification: Microsoft Azure Fundamentals (2024)](https://www.udemy.com/course/az-900-preparacao-para-o-exame-microsoft-azure-fundamentals/)
-
 ###### SKILLS
 
 ###### Programming Languages
@@ -57,6 +53,10 @@ Excellent communication skills, with the ability to give and receive constructiv
 - Github
 - Jenkins
 - DataDog
+
+###### Certificates (most recents first):
+- [AZ-900: Microsoft Azure Fundamentals Exam Prep - APR 2024](https://www.udemy.com/course/az900-azure)
+- [AZ-900 Certification: Microsoft Azure Fundamentals (2024)](https://www.udemy.com/course/az-900-preparacao-para-o-exame-microsoft-azure-fundamentals/)
 
 And if you want to know more, I invite you to talk to me on linkedin:
 
