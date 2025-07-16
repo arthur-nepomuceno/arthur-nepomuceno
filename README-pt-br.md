@@ -13,10 +13,6 @@ Foco em desenvolvimento back-end, com fortes habilidades em Python, TypeScript, 
 Excelentes habilidades de comunicação, com capacidade para dar e receber feedback construtivo, promovendo um ambiente de
 trabalho saudável e colaborativo.
 
-###### Certificados:
-- [AZ-900: Microsoft Azure Fundamentals Exam Prep - APR 2024](https://www.udemy.com/course/az900-azure)
-- [AZ-900 Certification: Microsoft Azure Fundamentals (2024)](https://www.udemy.com/course/az-900-preparacao-para-o-exame-microsoft-azure-fundamentals/)
-
 ###### STACKS
 
 ###### Linguagens de Programação
@@ -58,6 +54,10 @@ trabalho saudável e colaborativo.
 - Github
 - Jenkins
 - DataDog
+
+###### Certificados:
+- [AZ-900: Microsoft Azure Fundamentals Exam Prep - APR 2024](https://www.udemy.com/course/az900-azure)
+- [AZ-900 Certification: Microsoft Azure Fundamentals (2024)](https://www.udemy.com/course/az-900-preparacao-para-o-exame-microsoft-azure-fundamentals/)
 
 E se quiser saber mais, fale comigo pelo linkedin:
 
